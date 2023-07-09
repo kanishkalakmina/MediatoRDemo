@@ -1,0 +1,2 @@
+# MediatoRDemo
+CQRS Pattern
