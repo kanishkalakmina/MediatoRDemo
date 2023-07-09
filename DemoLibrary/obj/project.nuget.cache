@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ksp6sjoLBhqXdECzO9WcrG196m9KFoErKH1u2NY0m1VD3ardHYItyZwIOiJBE02qVGk3LTwDuNO74tc/+wdszw==",
+  "dgSpecHash": "Kxf/1S2IC9KpmW1TMBl/95TVFK/C3+d6tFtjosUpTzHtalHvRhIOj2EbnBghDrW+BtYqf0avX3Y3VgpDul2p5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\LakminaEgodawatthaBI\\source\\repos\\MediatoRDemo\\DemoLibrary\\DemoLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LakminaEgodawatthaBI\\.nuget\\packages\\mediatr\\12.1.0\\mediatr.12.1.0.nupkg.sha512",
+    "C:\\Users\\LakminaEgodawatthaBI\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LakminaEgodawatthaBI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
