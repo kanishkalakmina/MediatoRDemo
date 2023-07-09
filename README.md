@@ -1,2 +1,2 @@
 # MediatoRDemo
-CQRS Pattern
+MediatoR && CQRS Pattern
